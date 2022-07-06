@@ -1,0 +1,8 @@
+.div {
+    background-color: red;
+    color: white;
+    width: max-content;
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+}
